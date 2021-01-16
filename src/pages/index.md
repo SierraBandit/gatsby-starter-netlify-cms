@@ -20,11 +20,10 @@ intro:
   blurbs:
     - image: /img/storms-mypositiveoutlooks.life.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Facebook posts to keep you thinking positive. Life is very challenging,
+        be it from your own challenges, traumatic experiences (PTSD), substance
+        abuse issues, or relationships that just didn't work out. My Positive
+        Outlooks can help focus your mind, through positivity. 
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
