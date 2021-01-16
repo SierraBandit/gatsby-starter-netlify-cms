@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Reflect on says to stay positive
+title: Reflect on sayings to stay positive
 image: /img/mpo.life-home-screen.png
 heading: Great coffee with a conscience
 subheading: Support positive thinking for a positive life
