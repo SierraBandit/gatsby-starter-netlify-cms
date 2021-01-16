@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Reflect on says to stay positive
 image: /img/mpo.life-home-screen.png
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: Support positive thinking for a positive life
 mainpitch:
   title: Why Kaldi
   description: >
