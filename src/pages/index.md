@@ -5,7 +5,7 @@ image: /img/mpo.life-home-screen.png
 heading: Great coffee with a conscience
 subheading: Support positive thinking for a positive life
 mainpitch:
-  title: Why Kaldi
+  title: Why My Positive Outlooks
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
