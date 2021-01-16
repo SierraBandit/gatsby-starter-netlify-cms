@@ -7,10 +7,9 @@ subheading: Support positive thinking for a positive life
 mainpitch:
   title: Why My Positive Outlooks
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    My Positive Outlooks was born out of real life's challenges. Challenges
+    create opportunities, especially when coming from a recovery background.
+    When the going gets tough the tough get going.   
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
   production, roasting and brewing seriously and we’re glad to pass that
