@@ -8,8 +8,10 @@ mainpitch:
   title: Why My Positive Outlooks
   description: >
     My Positive Outlooks was born out of real life's challenges. Challenges
-    create opportunities, especially when coming from a recovery background.
-    When the going gets tough the tough get going.   
+    create opportunities. There is a saying when the going gets tough; the tough
+    get going. It's sayings like this that can be reflected upon and thought
+    about during difficult times, really anytime. This site is dedicated to
+    positive sayings to draw strength from.    
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
   production, roasting and brewing seriously and we’re glad to pass that
