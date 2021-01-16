@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Reflect on sayings to stay positive
+title: My positive outlooks to help you be positive
 image: /img/mpo.life-home-screen.png
 heading: Inspire to be insipred
-subheading: Support positive thinking for a positive life
+subheading: Encouage positive thinking for a positive life
 mainpitch:
   title: Why My Positive Outlooks
   description: >
