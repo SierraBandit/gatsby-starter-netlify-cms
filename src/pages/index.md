@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Reflect on sayings to stay positive
 image: /img/mpo.life-home-screen.png
-heading: Great coffee with a conscience
+heading: Inspire to be insipred
 subheading: Support positive thinking for a positive life
 mainpitch:
   title: Why My Positive Outlooks
