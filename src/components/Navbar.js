@@ -42,7 +42,7 @@ const Navbar = class extends React.Component {
         <div className="container">
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
-              <img src={logo} alt="Kaldi" style={{ width: '88px' }} />
+              <img src={logo} alt="My Positive Outlooks" style={{ width: '88px' }} />
             </Link>
             {/* Hamburger menu */}
             <div
@@ -84,7 +84,7 @@ const Navbar = class extends React.Component {
                 rel="noopener noreferrer"
               >
                 <span className="icon">
-                  <img src={github} alt="Github" />
+                  <img src={github} alt="My Positive Outlooks" />
                 </span>
               </a>
             </div>
