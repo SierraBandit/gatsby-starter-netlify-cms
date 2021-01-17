@@ -24,7 +24,7 @@ intro:
         be it from your own challenges, traumatic experiences (PTSD), substance
         abuse issues, or relationships that just didn't work out. My Positive
         Outlooks can help focus your mind, through positivity. 
-    - image: /img/coffee-gear.png
+    - image: /img/mpo-walk-away.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
