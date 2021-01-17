@@ -12,10 +12,8 @@ mainpitch:
     get going. It's sayings like this that can be reflected upon and thought
     about during difficult times, really anytime. This site is dedicated to
     positive sayings to draw strength from.    
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+description: "My Positive Outlooks goes well with Tea. We just love sipping on a
+  hot cup of team and reflecting on these little karma shots, a.k.a sayings. "
 intro:
   blurbs:
     - image: /img/storms-mypositiveoutlooks.life.png
