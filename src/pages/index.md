@@ -58,9 +58,9 @@ main:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: "Cup of tea on a table. "
     image: /img/products-grid2.jpg
   image3:
-    alt: Coffee beans
+    alt: Tea
     image: /img/products-grid1.jpg
 ---
