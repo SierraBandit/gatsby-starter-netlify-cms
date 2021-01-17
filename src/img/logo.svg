@@ -7,51 +7,51 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="logo.svg"
-   inkscape:version="1.0 (4035a4f, 2020-05-01)"
-   id="svg8"
-   version="1.1"
-   viewBox="0 0 2068 300"
+   width="2200"
    height="300"
-   width="2068">
+   viewBox="0 0 2200 300"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   sodipodi:docname="logo.svg">
   <title
      id="title34">My Positive Outlooks Logo</title>
   <defs
      id="defs2">
     <rect
-       id="rect24"
-       height="74.083328"
-       width="267.75833"
+       x="1.3229166"
        y="2.1166666"
-       x="1.3229166" />
+       width="267.75833"
+       height="74.083328"
+       id="rect24" />
     <rect
-       id="rect12"
-       height="15.119047"
-       width="136.82738"
+       x="21.922619"
        y="74.839287"
-       x="21.922619" />
+       width="136.82738"
+       height="15.119047"
+       id="rect12" />
   </defs>
   <sodipodi:namedview
-     inkscape:pagecheckerboard="true"
-     units="px"
-     inkscape:window-maximized="0"
-     inkscape:window-y="89"
-     inkscape:window-x="0"
-     inkscape:window-height="847"
-     inkscape:window-width="1437"
-     showgrid="false"
-     inkscape:document-rotation="0"
-     inkscape:current-layer="layer1"
-     inkscape:document-units="px"
-     inkscape:cy="196.72369"
-     inkscape:cx="1261.9209"
-     inkscape:zoom="0.5"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
+     id="base"
      pagecolor="#ffffff"
-     id="base" />
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="1261.9209"
+     inkscape:cy="196.72369"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1437"
+     inkscape:window-height="847"
+     inkscape:window-x="0"
+     inkscape:window-y="89"
+     inkscape:window-maximized="0"
+     units="px"
+     inkscape:pagecheckerboard="true" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -77,24 +77,24 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
+     id="layer1">
     <text
-       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect24);fill:#000000;fill-opacity:1;stroke:none;"
+       xml:space="preserve"
        id="text22"
-       xml:space="preserve" />
+       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect24);fill:#000000;fill-opacity:1;stroke:none;" />
     <text
-       id="text30"
-       y="208.84229"
-       x="64.493057"
+       xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:172px;line-height:1.25;font-family:'.Apple SD Gothic NeoI';-inkscape-font-specification:'.Apple SD Gothic NeoI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:172px;font-family:'.Apple SD Gothic NeoI';-inkscape-font-specification:'.Apple SD Gothic NeoI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff6600;stroke-width:0.264583"
-         y="208.84229"
-         x="64.493057"
+       x="64.493057"
+       y="208.84229"
+       id="text30"><tspan
+         sodipodi:role="line"
          id="tspan28"
-         sodipodi:role="line">MY POSITIVE OUTLOOKS</tspan></text>
+         x="64.493057"
+         y="208.84229"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:172px;font-family:'.Apple SD Gothic NeoI';-inkscape-font-specification:'.Apple SD Gothic NeoI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff6600;stroke-width:0.264583"
+         rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0">MY POSITIVE OUTLOOKS</tspan></text>
   </g>
 </svg>
