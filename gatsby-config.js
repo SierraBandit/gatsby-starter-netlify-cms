@@ -1,8 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'My Positive Outlooks',
+    //Created from a modified Gatsby + Netlify CMS by Todd Brockman - 2021 
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'My Psoitive Outlooks, is a site for inspiration, engery, grit.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
