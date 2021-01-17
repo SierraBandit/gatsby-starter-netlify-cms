@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 132.29165 26.458334"
+   height="100"
+   width="500">
+  <title
+     id="title34">My Positive Outlooks Logo</title>
+  <defs
+     id="defs2">
+    <rect
+       id="rect12"
+       height="15.119047"
+       width="136.82738"
+       y="74.839287"
+       x="21.922619" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:pagecheckerboard="true"
+     units="px"
+     inkscape:window-maximized="0"
+     inkscape:window-y="89"
+     inkscape:window-x="0"
+     inkscape:window-height="847"
+     inkscape:window-width="1252"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="144.57143"
+     inkscape:cx="219.14286"
+     inkscape:zoom="1"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>My Positive Outlooks Logo</dc:title>
+        <dc:date>Jan 16, 2021</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Todd Brockman</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Copyrighted</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:language>English</dc:language>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <text
+       transform="matrix(1.0210545,0,0,1.7022119,-20.08167,-125.19845)"
+       style="font-style:normal;font-weight:normal;font-size:10.16840000000000011px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect12);fill:#000080;fill-opacity:1;stroke:none;"
+       id="text10"
+       xml:space="preserve"><tspan
+         x="21.921875"
+         y="84.116783"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.1684px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next Bold';fill:#000080">MY POSITIVE OUTLOOKS</tspan></tspan></text>
+  </g>
+</svg>
