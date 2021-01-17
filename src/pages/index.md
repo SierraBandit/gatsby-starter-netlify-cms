@@ -46,10 +46,9 @@ intro:
         sale. The full price you pay goes to the artist.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    My Positive Outlooks is a good spot to refocus your thoughts and mindset.
+    Though small tweaks to your thinking and what you read, you too can overcome
+    the pitfall of negativity. 
 main:
   heading: Great coffee with no compromises
   description: >
