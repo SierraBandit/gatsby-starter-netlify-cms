@@ -7,45 +7,45 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="logo.svg"
-   inkscape:version="1.0 (4035a4f, 2020-05-01)"
-   id="svg8"
+   width="1024"
+   height="300"
+   viewBox="0 0 270.9333 79.375002"
    version="1.1"
-   viewBox="0 0 132.29165 26.458334"
-   height="100"
-   width="500">
+   id="svg8"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   sodipodi:docname="logo.svg">
   <title
      id="title34">My Positive Outlooks Logo</title>
   <defs
      id="defs2">
     <rect
-       id="rect12"
-       height="15.119047"
-       width="136.82738"
+       x="21.922619"
        y="74.839287"
-       x="21.922619" />
+       width="136.82738"
+       height="15.119047"
+       id="rect12" />
   </defs>
   <sodipodi:namedview
-     inkscape:pagecheckerboard="true"
-     units="px"
-     inkscape:window-maximized="0"
-     inkscape:window-y="89"
-     inkscape:window-x="0"
-     inkscape:window-height="847"
-     inkscape:window-width="1252"
-     showgrid="false"
-     inkscape:document-rotation="0"
-     inkscape:current-layer="layer1"
-     inkscape:document-units="px"
-     inkscape:cy="144.57143"
-     inkscape:cx="219.14286"
-     inkscape:zoom="1"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
+     id="base"
      pagecolor="#ffffff"
-     id="base" />
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="543.14286"
+     inkscape:cy="230.57143"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1252"
+     inkscape:window-height="847"
+     inkscape:window-x="0"
+     inkscape:window-y="89"
+     inkscape:window-maximized="0"
+     units="px"
+     inkscape:pagecheckerboard="true" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -71,16 +71,16 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
+     id="layer1">
     <text
-       transform="matrix(1.0210545,0,0,1.7022119,-20.08167,-125.19845)"
-       style="font-style:normal;font-weight:normal;font-size:10.16840000000000011px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect12);fill:#000080;fill-opacity:1;stroke:none;"
+       xml:space="preserve"
        id="text10"
-       xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.13560000000000016px;line-height:1.25;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next';white-space:pre;shape-inside:url(#rect12);fill:#ff6600;fill-opacity:1;stroke:none;"
+       transform="matrix(2.1273026,0,0,2.627198,-45.418446,-173.67075)"><tspan
          x="21.921875"
-         y="84.116783"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.1684px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next Bold';fill:#000080">MY POSITIVE OUTLOOKS</tspan></tspan></text>
+         y="83.526706"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.1356px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next Bold';fill:#ff6600">MY POSITIVE OUTLOOKS</tspan></tspan></text>
   </g>
 </svg>
