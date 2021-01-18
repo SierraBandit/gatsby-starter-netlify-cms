@@ -1,19 +1,19 @@
 ---
 templateKey: index-page
-title: My positive outlooks to help you be positive
+title: My positive outlooks helps with a positive outlook
 image: /img/mpo.life-home-screen.png
-heading: Inspire to be insipred
-subheading: Encouage positive thinking for a positive life
+heading: Inspire to be inspired
+subheading: Encourage positive thinking for a positive life
 mainpitch:
   title: Why My Positive Outlooks
   description: >
     My Positive Outlooks was born out of real life's challenges. Challenges
     create opportunities. There is a saying when the going gets tough; the tough
     get going. It's sayings like this that can be reflected upon and thought
-    about during difficult times, really anytime. This site is dedicated to
-    positive sayings to draw strength from.    
-description: "My Positive Outlooks goes well with Tea. We just love sipping on a
-  hot cup of team and reflecting on these little karma shots, a.k.a sayings. "
+    about during difficult times, which honestly help. This site is dedicated to
+    positive outlooks, be it little positive sayings, tea & coffee, or other
+    items to keep you positive.    
+description: "  "
 intro:
   blurbs:
     - image: /img/storms-mypositiveoutlooks.life.png
