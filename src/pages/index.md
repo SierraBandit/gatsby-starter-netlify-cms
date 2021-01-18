@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: My positive outlooks helps with a positive outlook
+title: We offer a positive outlooks
 image: /img/mpo.life-home-screen.png
 heading: Inspire to be inspired
 subheading: Encourage positive thinking for a positive life
