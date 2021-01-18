@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: We offer positive outlooks
+title: Be positive...it is good business
 image: /img/mpo.life-home-screen.png
 heading: Inspire to be inspired
-subheading: Encourage positive thinking for a positive life
+subheading: We encourage positive thinking.
 mainpitch:
   title: Why My Positive Outlooks
   description: >
